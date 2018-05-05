@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trackademy", "Trackademy\Trackademy.csproj", "{35212555-FF9D-4769-B966-147D1E2BD5FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trackademy.Tests", "Trackademy.Tests\Trackademy.Tests.csproj", "{CFF43B14-6718-4040-8D30-8139092224FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35212555-FF9D-4769-B966-147D1E2BD5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35212555-FF9D-4769-B966-147D1E2BD5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35212555-FF9D-4769-B966-147D1E2BD5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35212555-FF9D-4769-B966-147D1E2BD5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF43B14-6718-4040-8D30-8139092224FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF43B14-6718-4040-8D30-8139092224FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF43B14-6718-4040-8D30-8139092224FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF43B14-6718-4040-8D30-8139092224FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEE615E4-6A56-4E7E-B559-8C485251C21A}
+	EndGlobalSection
+EndGlobal
