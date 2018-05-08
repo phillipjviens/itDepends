@@ -4,7 +4,7 @@ SRD
 Philip Viens, Shokoufeh Shadabi, Melissa McClure, Jake Ladera, Brian Doersch, Taylor Guy
 
 ### Proposal Name
-Hi-Tracker
+Trackademy
 
 ### Vision
 Here, there, anywhere you want to go, we'll help you get there.
